@@ -41,8 +41,7 @@ A 6-degrees-of-freedom robotic arm that mirrors the operator's movements in real
 ## Gallery
 
 | The prototype |
-|---|---|
-| !(https://github.com/shansuberr-ux/6dof_robotic_arm/blob/main/6dof%20robot.jpg) |
+| ![Physical Proto](https://github.com/shansuberr-ux/6dof_robotic_arm/blob/main/6dof%20robot.jpg). 
 
 ---
 
